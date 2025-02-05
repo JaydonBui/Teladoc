@@ -4,15 +4,16 @@
 This comprehensive market entry strategy for Teladoc Health demonstrates a data-driven approach to international expansion, focusing on Colombia in South America and Indonesia in Southeast Asia.
 
 **Key Highlights 📊**
-Market Selection Criteria
+
+Market Selection Criteria:
 South America: Colombia
-50+ million population
-72.8% internet penetration
-Robust telehealth regulatory framework
+- 50+ million population
+- 72.8% internet penetration
+- Robust telehealth regulatory framework
 Southeast Asia: Indonesia
-270 million population
-High smartphone penetration
-Significant digital health market potential
+- 270 million population
+- High smartphone penetration
+- Significant digital health market potential
 
 **Strategic Approach 🚀**
 Market Segmentation
