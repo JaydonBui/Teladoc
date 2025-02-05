@@ -5,37 +5,25 @@
 **Executive Summary**
 This comprehensive market entry strategy for Teladoc Health demonstrates a data-driven approach to international expansion, focusing on Colombia in South America and Indonesia in Southeast Asia.
 
-**Key Highlights 📊**
+📌 What I Did
 
-Market Selection Criteria:
-South America: Colombia
-- 50+ million population
-- 72.8% internet penetration
-- Robust telehealth regulatory framework
-  
-Southeast Asia: Indonesia
-- 270 million population
-- High smartphone penetration
-- Significant digital health market potential
+📊 Datasets Analyzed
+1️⃣ Global Physician Distribution
+Dataset Description: Includes generalist and specialist medical practitioners per 1,000 people across 84 countries
+2️⃣ U.S. Medicare Telehealth Trends: Used to analyze telehealth adoption trends in the U.S. as a benchmark
+3️⃣ Teladoc Health Annual Report 2023: Extracted key financial performance metrics
+<img width="511" alt="Company Overview" src="https://github.com/JaydonBui/Teladoc/blob/main/Company%20Overview.png">
 
-**Strategic Approach 🚀**
-Market Segmentation
-High Value, High Price Segment
-Target: Large enterprises, government agencies
-Focus: Premium services
-High Value, Good Price Segment
-Target: Mid-sized businesses, regional health plans
-Focus: Affordable quality services
 
-**Financial Projections 💰**
-Year 1 Revenue: $15.02 million
-Year 5 Revenue: $59.79 million
-Annual Growth Rate: 41%
-User Growth: 0.51 million to 2.03 million users
+Identified growth drivers & cost structures
+1. Developed a data-driven market entry strategy for Teladoc Health in Colombia and Indonesia
+2. Conducted market research, competitive analysis, and financial forecasting
+3. Built interactive dashboards for data visualization and insights
+4. Designed a pricing strategy using the Perceived Value vs. Price Quadrant Model
+5. Provided strategic recommendations to maximize market penetration
 
-**Key Recommendations 🎯**
-Leverage advanced analytics
-Build strong brand presence
-Develop strategic local partnerships
-Implement tiered pricing model
-Focus on high-value market segments
+
+🛠️ Tools Used
+✅ Excel Advanced Analytics – Data processing & financial modeling
+✅ Power BI – Interactive dashboards & data visualization
+✅ Python (Pandas, Matplotlib) – Data analysis & trend identification
