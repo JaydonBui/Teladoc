@@ -19,7 +19,7 @@ _Analyzed U.S. telehealth market trends to benchmark Teladoc’s performance and
 🌎 Colombia Market Analysis
 1. Colombia Digital Health Market (Statista Data & Visuals) 📈
    
-_   Examined the Colombian digital health landscape to assess market potential and opportunities for Teladoc’s expansion._
+_Examined the Colombian digital health landscape to assess market potential and opportunities for Teladoc’s expansion_
   <img width="511" alt="Columbia Digital health market" src="https://github.com/JaydonBui/Teladoc/blob/main/Columbia%20Digital%20health%20market.png">
   
 2. Value-Based Customer Segmentation (Power BI Visualization) 🎯
@@ -29,7 +29,7 @@ _Segmented the market by value to target the most profitable customer groups, op
    
 3. Perceived Value vs. Price Quadrant Model (Pricing Strategy Definition) 💲
    
- _  Defined a pricing strategy using the quadrant model to match perceived value with pricing, ensuring competitiveness and profitability._
+_Defined a pricing strategy using the quadrant model to match perceived value with pricing, ensuring competitiveness and profitability._
   <img width="511" alt="Perceived Value vs Price Quadrant Model" src="https://github.com/JaydonBui/Teladoc/blob/main/Perceived%20Value%20vs%20Price%20Quadrant%20Model.png">
   
 4. Pricing Plan Suggestion (Tiered Pricing Recommendations) 📌
