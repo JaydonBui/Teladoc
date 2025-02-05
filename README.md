@@ -10,6 +10,7 @@ South America: Colombia
 - 50+ million population
 - 72.8% internet penetration
 - Robust telehealth regulatory framework
+  
 Southeast Asia: Indonesia
 - 270 million population
 - High smartphone penetration
