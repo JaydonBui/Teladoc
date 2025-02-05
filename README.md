@@ -1,5 +1,7 @@
 # Teladoc Health: Strategic Global Expansion Case Study 🌐🩺
 
+🏆 3rd Place - Case Competition: [Certificate](https://github.com/JaydonBui/Teladoc/blob/main/Certificate%20of%20Achievement.png)
+
 **Executive Summary**
 This comprehensive market entry strategy for Teladoc Health demonstrates a data-driven approach to international expansion, focusing on Colombia in South America and Indonesia in Southeast Asia.
 
