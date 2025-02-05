@@ -17,32 +17,26 @@ _Analyzed U.S. telehealth market trends to benchmark Teladoc’s performance and
 
 
 🌎 Colombia Market Analysis
-1. Colombia Digital Health Market (Statista Data & Visuals):
-   
-_Examined the Colombian digital health landscape to assess market potential and opportunities for Teladoc’s expansion_
-  <img width="511" alt="Columbia Digital health market" src="https://github.com/JaydonBui/Teladoc/blob/main/Columbia%20Digital%20health%20market.png">
+1. Colombia Digital Health Market (Statista Data & Visuals): Examined the Colombian digital health landscape to assess market potential and opportunities for Teladoc’s expansion.
+<img width="511" alt="Columbia Digital health market" src="https://github.com/JaydonBui/Teladoc/blob/main/Columbia%20Digital%20health%20market.png">
   
-2. Value-Based Customer Segmentation (Power BI Visualization):
+2. Value-Based Customer Segmentation (Power BI Visualization): Segmented the market by value to target the most profitable customer groups, optimizing Teladoc’s marketing and service offerings.
    
-_Segmented the market by value to target the most profitable customer groups, optimizing Teladoc’s marketing and service offerings_
-   <img width="511" alt="value-based customer segmentation" src="https://github.com/JaydonBui/Teladoc/blob/main/value-based%20customer%20segmentation.png">
+<img width="511" alt="value-based customer segmentation" src="https://github.com/JaydonBui/Teladoc/blob/main/value-based%20customer%20segmentation.png">
    
-3. Perceived Value vs. Price Quadrant Model (Pricing Strategy Definition):
-   
-_Defined a pricing strategy using the quadrant model to match perceived value with pricing, ensuring competitiveness and profitability._
-  <img width="511" alt="Perceived Value vs Price Quadrant Model" src="https://github.com/JaydonBui/Teladoc/blob/main/Perceived%20Value%20vs%20Price%20Quadrant%20Model.png">
+4. Perceived Value vs. Price Quadrant Model (Pricing Strategy Definition): Defined a pricing strategy using the quadrant model to match perceived value with pricing, ensuring competitiveness and profitability.
+
+<img width="511" alt="Perceived Value vs Price Quadrant Model" src="https://github.com/JaydonBui/Teladoc/blob/main/Perceived%20Value%20vs%20Price%20Quadrant%20Model.png">
   
-4. Pricing Plan Suggestion (Tiered Pricing Recommendations):
+4. Pricing Plan Suggestion (Tiered Pricing Recommendations): Suggested a tiered pricing model to cater to different customer segments, maximizing revenue and accessibility.
    
-_Suggested a tiered pricing model to cater to different customer segments, maximizing revenue and accessibility._
-   <img width="511" alt="Pricing plan" src="https://github.com/JaydonBui/Teladoc/blob/main/Pricing%20Plan%20suggestion.png">
+<img width="511" alt="Pricing plan" src="https://github.com/JaydonBui/Teladoc/blob/main/Pricing%20Plan%20suggestion.png">
    
-5. Financial Forecasting & Revenue Projection (Image - Excel & Power BI):
-   
-_Projected financial growth and user adoption to assess the potential ROI of Teladoc’s market entry into Colombia._
+6. Financial Forecasting & Revenue Projection (Image - Excel & Power BI): Projected financial growth and user adoption to assess the potential ROI of Teladoc’s market entry into Colombia.
+
 <img width="511" alt="Financial Forecasting" src="https://github.com/JaydonBui/Teladoc/blob/main/Financial%20Forecasting.png">
 
-Key Recommendations 🎯
+🎯 Key Recommendations:
 
 1️⃣ Tiered Pricing Model:
 Premium: $60–$100 (virtual), $75–$90 (specialist)
