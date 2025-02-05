@@ -58,6 +58,7 @@ Focus on high-value segments (A & B) for optimal revenue.
 
 ✅ Python (Pandas, Matplotlib) – Data analysis & trend identification
 
+
 📁 Files Included in the Repository
 
 🔹 Presentation Slides: [File](https://github.com/JaydonBui/Teladoc/blob/main/JC__VCG%20Case%20Comp_Market%20Entry%20Strategy.pdf)
